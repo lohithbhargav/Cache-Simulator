@@ -1,0 +1,512 @@
+BLOCKSIZE=64, WAYSIZE=2, CACHESIZE=16KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1267611
+Cache Misses:  232389
+==================================
+Cache Hit Rate: 0.85
+Cache Miss Rate: 0.15
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1044171
+Cache Misses:  2189884
+==================================
+Cache Hit Rate: 0.32
+Cache Miss Rate: 0.68
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+CACHESIZE=32KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1298284
+Cache Misses:  201716
+==================================
+Cache Hit Rate: 0.87
+Cache Miss Rate: 0.13
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1062194
+Cache Misses:  2171861
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+CACHESIZE=64KB
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1317767
+Cache Misses:  182233
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1070027
+Cache Misses:  2164028
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+WAYSIZE=4, CACHESIZE=16KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1268027
+Cache Misses:  231973
+==================================
+Cache Hit Rate: 0.85
+Cache Miss Rate: 0.15
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1036888
+Cache Misses:  2197167
+==================================
+Cache Hit Rate: 0.32
+Cache Miss Rate: 0.68
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+WAYSIZE=4, CACHESIZE=32KB
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1304336
+Cache Misses:  195664
+==================================
+Cache Hit Rate: 0.87
+Cache Miss Rate: 0.13
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1062056
+Cache Misses:  2171999
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+WAYSIZE=4, CACHESIZE=65536
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1316919
+Cache Misses:  183081
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1070122
+Cache Misses:  2163933
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+WAYSIZE=8, CACHESIZE= 16KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1294824
+Cache Misses:  205176
+==================================
+Cache Hit Rate: 0.86
+Cache Miss Rate: 0.14
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1059740
+Cache Misses:  2174315
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+CACHESIZE=32KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1303101
+Cache Misses:  196899
+==================================
+Cache Hit Rate: 0.87
+Cache Miss Rate: 0.13
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1060180
+Cache Misses:  2173875
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+CACHESIZE=64KB
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1317595
+Cache Misses:  182405
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    1070270
+Cache Misses:  2163785
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim n-way ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+
+==================================
+Cache type:    N-Way Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+

@@ -1,0 +1,171 @@
+
+
+login-20-25:/CS5375$ ./cachesim fully ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-25:/CS5375$ ./cachesim fully ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1313661
+Cache Misses:  186339
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-25:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1074020
+Cache Misses:  2160035
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-25:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-25:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+BLOCKSIZE=64, WAYSIZE=1,CACHESIZE= 32KB(32,768)
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1321284
+Cache Misses:  178716
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1075842
+Cache Misses:  2158213
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+
+BLOCKSIZE=64, WAYSIZE=1,CACHESIZE= 64KB(65,536)
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+==================================
+Cache Hit Rate: 0.58
+Cache Miss Rate: 0.42
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.hpcg
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1325016
+Cache Misses:  174984
+==================================
+Cache Hit Rate: 0.88
+Cache Miss Rate: 0.12
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    1076583
+Cache Misses:  2157472
+==================================
+Cache Hit Rate: 0.33
+Cache Miss Rate: 0.67
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+==================================
+Cache Hit Rate: 0.00
+Cache Miss Rate: 1.00
+
+login-20-26:/CS5375$ ./cachesim fully ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    Fully Associative Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+==================================
+Cache Hit Rate: 0.20
+Cache Miss Rate: 0.80
+

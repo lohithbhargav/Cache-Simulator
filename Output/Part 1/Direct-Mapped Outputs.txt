@@ -1,0 +1,48 @@
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1301327
+Cache Misses:  198673
+
+hit_rate: 0.87
+miss_rate: 0.13
+login-20-26:/CS5375$ ./cachesim.exe direct ./trace_for_students/trace.stream
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1059918
+Cache Misses:  2174137
+
+hit_rate: 0.33
+miss_rate: 0.67
+login-20-26:/CS5375$ ./cachesim.exe direct ./trace_for_students/trace.stream_10
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+hit_rate: 0.00
+miss_rate: 1.00
+login-20-26:/CS5375$ ./cachesim.exe direct ./trace_for_students/trace.stream_20
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+
+hit_rate: 0.20
+miss_rate: 0.80
+login-20-26:/CS5375$ ./cachesim.exe direct ./trace_for_students/hw2_q4_memoryaddr
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    7
+Cache Misses:  5
+
+hit_rate: 0.58
+miss_rate: 0.42

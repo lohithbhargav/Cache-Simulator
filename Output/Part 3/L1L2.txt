@@ -1,0 +1,108 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ==================================\
+Cache type:    L1 L2 Cache\
+==================================\
+Cache L1 Hits:    981978\
+Cache L1 Misses:  2252077\
+==================================\
+Cache L1 Hit Rate: 0.30\
+Cache L1 Miss Rate: 0.70\
+\
+==================================\
+Total CPU requested memory access: 5486132\
+\
+Cache L2 Hits:    94087\
+Cache L2 Misses:  2157990\
+==================================\
+Cache L2 Local Hit Rate: 0.04\
+Cache L2 Local Miss Rate: 0.96\
+Cache L2 Global Hit Rate: 0.33\
+Cache L2 Global Miss Rate: 0.67\
+\
+\
+==================================\
+Cache type:    L1 L2 Cache\
+==================================\
+Cache L1 Hits:    0\
+Cache L1 Misses:  10\
+==================================\
+Cache L1 Hit Rate: 0.00\
+Cache L1 Miss Rate: 1.00\
+\
+==================================\
+Total CPU requested memory access: 20\
+\
+Cache L2 Hits:    0\
+Cache L2 Misses:  10\
+==================================\
+Cache L2 Local Hit Rate: 0.00\
+Cache L2 Local Miss Rate: 1.00\
+Cache L2 Global Hit Rate: 0.00\
+Cache L2 Global Miss Rate: 1.00\
+\
+==================================\
+Cache type:    L1 L2 Cache\
+==================================\
+Cache L1 Hits:    0\
+Cache L1 Misses:  10\
+==================================\
+Cache L1 Hit Rate: 0.00\
+Cache L1 Miss Rate: 1.00\
+\
+==================================\
+Total CPU requested memory access: 20\
+\
+Cache L2 Hits:    0\
+Cache L2 Misses:  10\
+==================================\
+Cache L2 Local Hit Rate: 0.00\
+Cache L2 Local Miss Rate: 1.00\
+Cache L2 Global Hit Rate: 0.00\
+Cache L2 Global Miss Rate: 1.00\
+\
+==================================\
+Cache type:    L1 L2 Cache\
+==================================\
+Cache L1 Hits:    4\
+Cache L1 Misses:  8\
+==================================\
+Cache L1 Hit Rate: 0.33\
+Cache L1 Miss Rate: 0.67\
+\
+==================================\
+Total CPU requested memory access: 20\
+\
+Cache L2 Hits:    3\
+Cache L2 Misses:  5\
+==================================\
+Cache L2 Local Hit Rate: 0.38\
+Cache L2 Local Miss Rate: 0.62\
+Cache L2 Global Hit Rate: 0.58\
+Cache L2 Global Miss Rate: 0.42\
+\
+\
+==================================\
+Cache type:    L1 L2 Cache\
+==================================\
+Cache L1 Hits:    1220082\
+Cache L1 Misses:  279918\
+==================================\
+Cache L1 Hit Rate: 0.81\
+Cache L1 Miss Rate: 0.19\
+\
+==================================\
+Total CPU requested memory access: 1779918\
+\
+Cache L2 Hits:    102261\
+Cache L2 Misses:  177657\
+==================================\
+Cache L2 Local Hit Rate: 0.37\
+Cache L2 Local Miss Rate: 0.63\
+Cache L2 Global Hit Rate: 0.88\
+Cache L2 Global Miss Rate: 0.12}
